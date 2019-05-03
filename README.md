@@ -7,11 +7,26 @@ Because networks can be confusing
 
 
 ## Downloads
-### Micro (really small cell-level stuff)
+### Micro (really small cell-level & gene stuff)
 
-* [USC Mouse Connectome](http://www.mouseconnectome.org/MCP/page/tables/supplementary?paperId=17) - Cortico-cortical mouse networks from Fig2 of the [Zingg (2014) Cell](https://www.cell.com/abstract/S0092-8674%2814%2900222-0) paper.
+* [USC Mouse Connectome](http://www.mouseconnectome.org/MCP/page/tables/supplementary?paperId=17) - Cortico-cortical mouse networks from [Fig2](http://www.mouseconnectome.org/MCP/page/documents/figures?paperId=17) of the [Zingg (2014) Cell](https://www.cell.com/abstract/S0092-8674%2814%2900222-0) paper.
 
-### Meso (circuits and stuff)
+* [Drosophila medulla full connectome](https://figshare.com/articles/Drosophila_medulla_full_connectome/1249735) - Data from [Takemura (2013)](https://www.nature.com/articles/nature12450) extracted and bundled up.
+
+* [Marmoset brain](http://analytics.marmosetbrain.org/) - weighted and directed, based on monosynaptic retrograde fluorescent tracers.
+
+* [Neurodata.io](https://neurodata.io/project/connectomes/) - A bunch of goodies here, in graphml format:
+  * Cat
+  * Fly 
+  * Macaque
+  * Mouse 
+  * Rat
+  * Worm
+
+* [Transcriptional map of primate brain development](https://github.com/AllenBrainAtlas/DevRhesusLMD) - Can use this github repo to make some gene expression maps, from [Bakken (2016)](https://www.nature.com/articles/nature18637)
+
+* [Mouse synaptome atlas](http://synaptome.genes2cognition.org/) - 
+
 ### Macro (whole brain coverage, neuroimaging, stuff)
 
 * [The Neuro Beureau](https://www.nitrc.org/frs/?group_id=383) - Many preprocessed connectomes here: 
@@ -25,6 +40,8 @@ Because networks can be confusing
 * [Vertes2016_PhilTransB_data.mat](https://figshare.com/articles/Vertes2016_PhilTransB_data_mat/3363433) - 38 brain networks in this big mat file, from [Vertes (2016)](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0362).
 
 * [Hernan Makse](http://www-levich.engr.ccny.cuny.edu/webpage/hmakse/brain/) - Hosting some brain networks used in publications here.
+
+* [AUDADAPT](https://osf.io/28r57/) - Func networks from people resting and listening, from [Alavash 2019](https://www.pnas.org/content/116/2/660).
 
 ### Parcellation (stuff)
 
