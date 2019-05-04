@@ -12,7 +12,8 @@ Because networks can be confusing
 * [Building connectomes using diffusion MRI: why, how and but](https://ora.ox.ac.uk/objects/uuid:81f726ca-d1f1-48f3-b686-82f3d6a198ba)
 
 ## Downloads
-### Micro (really small cell-level & gene stuff)
+### Non-human Animals
+Typically micro-scale infomation, gene expression, informatically collated connectivity & other stuff
 
 * [BCT](https://sites.google.com/site/bctnet/datasets/) - Brain connectivity toolbox: a personal favorite, with a selection of:
   * [Felleman (1991)](https://www.ncbi.nlm.nih.gov/pubmed/1822724) macaque visual cortex
@@ -36,7 +37,8 @@ Because networks can be confusing
 * [Transcriptional map of primate brain development](https://github.com/AllenBrainAtlas/DevRhesusLMD) - Can use this github repo to make some gene expression maps, from [Bakken (2016)](https://www.nature.com/articles/nature18637)
 * [USC Mouse Connectome](http://www.mouseconnectome.org/MCP/page/tables/supplementary?paperId=17) - Cortico-cortical mouse networks from [Fig2](http://www.mouseconnectome.org/MCP/page/documents/figures?paperId=17) of the [Zingg (2014) Cell](https://www.cell.com/abstract/S0092-8674%2814%2900222-0) paper.
 
-### Macro (whole brain coverage, neuroimaging, stuff)
+### Human Animals 
+Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage, & other stuff
 
 * [ACPI](http://fcon_1000.projects.nitrc.org/indi/ACPI/html/index.html) - Addiction connectome preprocessed initiative. 
 * [AUDADAPT](https://osf.io/28r57/) - Func networks from people resting and listening, from [Alavash 2019](https://www.pnas.org/content/116/2/660).
@@ -65,7 +67,8 @@ Because networks can be confusing
   * A list of the available datasets in the UMCD can be found [here](http://umcd.humanconnectomeproject.org/umcd/default/browse_studies). 
 * [Vertes2016_PhilTransB_data.mat](https://figshare.com/articles/Vertes2016_PhilTransB_data_mat/3363433) - 38 brain networks in this big mat file, from [Vertes (2016)](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0362).
 
-### Parcellation (stuff)
+### Parcellations
+Slicing up the brain into regions of interest
 
 * [Brain Parcellation Survey](https://biomedia.doc.ic.ac.uk/brain-parcellation-survey/) - Brain parcellation data used in [Arslan (2017)](https://www.sciencedirect.com/science/article/pii/S1053811917303026).
 * [Gordon atlas](https://mail.nmr.mgh.harvard.edu/pipermail//freesurfer/2017-April/051470.html) - FreeSurfer version of the gordon atlas, attached at the bottom of this thread.
