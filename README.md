@@ -1,5 +1,5 @@
 # brain-networks-across-the-web
-Data across the world wide web ready to be downloaded for your brainhacking pleasure; an aggregation of brain networks, brain data that can be easily massaged into an NxN matrix, and other data helpful for brain network stuff. 
+Data across the world wide web ready to be downloaded for your brainhacking pleasure; an aggregation of brain networks, brain data that can be easily massaged into an NxN matrix, and other data helpful for brain network stuff.
 
 Feel free to add to this (incomplete) list via a pull request! 
 
@@ -19,7 +19,9 @@ Typically micro-scale infomation, gene expression, informatically collated conne
   * [Felleman (1991)](https://www.ncbi.nlm.nih.gov/pubmed/1822724) macaque visual cortex
   * [Young (1992)](https://www.nature.com/articles/358152a0) macaque
   * [Scannell (1999)](https://academic.oup.com/cercor/article/9/3/277/428916) cat cortex
-* [C. elegans](http://wormwiring.org/) - A classic connectome. Also check out [Open Worm](http://openworm.org/downloads.html) for more worm connectome work. 
+* [C. elegans](http://wormwiring.org/) - A classic connectome. Also check out [Open Worm](http://openworm.org/downloads.html) for more worm connectome work.
+* [Calabrese (2015)](http://www.civm.duhs.duke.edu/mouseconnectome/#download) - Mouse tractography data from the paper [Calabrese (2015)](https://academic.oup.com/cercor/article/25/11/4628/2367615).
+* [Choi (2019)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006978) - Can download the 244 region Allen Mouse network through the resources in this paper.
 * [Drosophila medulla full connectome](https://figshare.com/articles/Drosophila_medulla_full_connectome/1249735) - Data from [Takemura (2013)](https://www.nature.com/articles/nature12450) extracted and bundled up.
 * [Grandjean (2017)](http://www.jneurosci.org/content/37/34/8092) - Paper contains some mouse func connectivity data. 
 * [Mouse synaptome atlas](https://www.cell.com/neuron/fulltext/S0896-6273(18)30581-6) - Synaptome, a similarity matrix of the synaptome maps for each of >700 regions, more info [here](http://synaptome.genes2cognition.org/). 
@@ -61,6 +63,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
   * Beijing Enhanced dwi networks
   * ADHD200 func networks with different preprocessing strategies
 * [Paris & HCP brain connectivity data](https://figshare.com/articles/Paris_HCP_brain_connectivity_data/3749595) - Data used in [Marrelec G (2016)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005031).
+* [PsychEncode](http://resource.psychencode.org/#Pipeline) - Download some gene expression matricies for the PFC here.
 * [SLIM](http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html) - Func networks from a test-retest sample from China.
 * [The R-fMRI Network](http://rfmri.org/DownloadRfMRIMaps) - Lots of func networks from Chinese mega-consortium.
 * [UMCD](http://umcd.humanconnectomeproject.org/) - USC Multimodal Connectivity Database, with brain networks constructed from a wide range of datasets
@@ -76,4 +79,4 @@ Slicing up the brain into regions of interest
 ## Other (fun stuff)
 
 * [The Virtual Brain](https://www.thevirtualbrain.org/tvb/zwei/home) - Brain dynamics simulators based on neural mass models and other fun equations.
-
+* [Network Repositroy](http://networkrepository.com/index.php) - Lot's of network downloads (including brain networks), but also more fun stuff too.
