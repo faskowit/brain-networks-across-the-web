@@ -77,9 +77,13 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 Slicing up the brain into regions of interest
 
 * [Brain Parcellation Survey](https://biomedia.doc.ic.ac.uk/brain-parcellation-survey/) - Brain parcellation data used in [Arslan (2017)](https://www.sciencedirect.com/science/article/pii/S1053811917303026).
+* [Craddock 2011](http://ccraddock.github.io/cluster_roi/atlases.html) - A parcellation made via spatially constrained spetrcal clustering. 
 * [Gordon atlas](https://mail.nmr.mgh.harvard.edu/pipermail//freesurfer/2017-April/051470.html) - FreeSurfer version of the gordon atlas, attached at the bottom of this thread.
+* [LEADS-DBS](https://www.lead-dbs.org/helpsupport/knowledge-base/atlasesresources/cortical-atlas-parcellations-mni-space/) - A page covering a wide-range of cortical parcellations.
+* [MIST](https://mniopenresearch.org/articles/1-3) - Multi-resolution parcellation of functional brain networks.
+* [Schaefer2018](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal) - Local global parcellations from paper [Schaefer (2018)](http://people.csail.mit.edu/ythomas/publications/2018LocalGlobal-CerebCor.pdf)
 
 ## Other (fun stuff)
 
-* [The Virtual Brain](https://www.thevirtualbrain.org/tvb/zwei/home) - Brain dynamics simulators based on neural mass models and other fun equations.
 * [Network Repositroy](http://networkrepository.com/index.php) - Lot's of network downloads (including brain networks), but also more fun stuff too.
+* [The Virtual Brain](https://www.thevirtualbrain.org/tvb/zwei/home) - Brain dynamics simulators based on neural mass models and other fun equations.
