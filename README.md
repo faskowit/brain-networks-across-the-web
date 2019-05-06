@@ -19,7 +19,9 @@ Typically micro-scale infomation, gene expression, informatically collated conne
   * [Felleman (1991)](https://www.ncbi.nlm.nih.gov/pubmed/1822724) macaque visual cortex
   * [Young (1992)](https://www.nature.com/articles/358152a0) macaque
   * [Scannell (1999)](https://academic.oup.com/cercor/article/9/3/277/428916) cat cortex
-* [C. elegans](http://wormwiring.org/) - A classic connectome. Also check out [Open Worm](http://openworm.org/downloads.html) for more worm connectome work.
+* [C. elegans](http://wormwiring.org/) - A classic connectome. 
+  * Also check out [Open Worm](http://openworm.org/downloads.html) for more worm connectome work.
+  * [Arnatkevic̆iūtė (2018)](https://figshare.com/s/797199619fbabdab8c86) - Worm data in a nicely organized figshare repo, from paper [Arnatkevic̆iūtė (2018)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005989)
 * [Calabrese (2015)](http://www.civm.duhs.duke.edu/mouseconnectome/#download) - Mouse tractography data from the paper [Calabrese (2015)](https://academic.oup.com/cercor/article/25/11/4628/2367615).
 * [Choi (2019)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006978) - Can download the 244 region Allen Mouse network through the resources in this paper.
 * [Drosophila medulla full connectome](https://figshare.com/articles/Drosophila_medulla_full_connectome/1249735) - Data from [Takemura (2013)](https://www.nature.com/articles/nature12450) extracted and bundled up.
@@ -63,6 +65,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
   * Beijing Enhanced dwi networks
   * ADHD200 func networks with different preprocessing strategies
 * [Paris & HCP brain connectivity data](https://figshare.com/articles/Paris_HCP_brain_connectivity_data/3749595) - Data used in [Marrelec G (2016)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005031).
+* [Patania (2019)](https://github.com/alpatania/AHBA_microarray_Mapper) - Github repo to make microarray data from paper [Patania (2019)](https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00094).
 * [PsychEncode](http://resource.psychencode.org/#Pipeline) - Download some gene expression matricies for the PFC here.
 * [SLIM](http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html) - Func networks from a test-retest sample from China.
 * [The R-fMRI Network](http://rfmri.org/DownloadRfMRIMaps) - Lots of func networks from Chinese mega-consortium.
