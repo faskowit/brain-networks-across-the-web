@@ -4,12 +4,13 @@ Data across the world wide web ready to be downloaded for your brainhacking plea
 Feel free to add to this (incomplete) list via a pull request! 
 
 ## Learn
-Because networks can be confusing
+Because networks can be confusing, and learning is fun. 
 
 * [A tutorial](https://www.dynamic-connectome.org/t/tutorial/) in connectome analysis: topological and spatial features of brain networks
 * [An	introduction](https://www.humanbrainmapping.org/files/2017/ED%20Courses/Course%20Materials/BrainGraphs_Fornito_Alex.pdf)	to	brain	networks
 * [A Scholarpedia](http://www.scholarpedia.org/article/Brain_connectivity) entry on brain connectivity.
 * [Building connectomes using diffusion MRI: why, how and but](https://ora.ox.ac.uk/objects/uuid:81f726ca-d1f1-48f3-b686-82f3d6a198ba)
+* [The first chapter](http://scitechconnect.elsevier.com/wp-content/uploads/2017/02/An-Introduction-to-Brain-Network-Analysis.pdf) to the wonderful book: [Fundementals of Brain Network Analysis](https://www.amazon.com/Fundamentals-Brain-Network-Analysis-Fornito-ebook/dp/B01CRIU886).
 
 ## Downloads
 ### Non-human Animals
@@ -77,11 +78,14 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 Slicing up the brain into regions of interest
 
 * [Brain Parcellation Survey](https://biomedia.doc.ic.ac.uk/brain-parcellation-survey/) - Brain parcellation data used in [Arslan (2017)](https://www.sciencedirect.com/science/article/pii/S1053811917303026).
+* [Brainnetome](http://atlas.brainnetome.org/download.html) - Atlas baed on multimodal (fMRI, DWI) information, from paper [Fan (2016)](https://academic.oup.com/cercor/article/26/8/3508/2429104).
 * [Craddock 2011](http://ccraddock.github.io/cluster_roi/atlases.html) - A parcellation made via spatially constrained spetrcal clustering. 
 * [Gordon atlas](https://mail.nmr.mgh.harvard.edu/pipermail//freesurfer/2017-April/051470.html) - FreeSurfer version of the gordon atlas, attached at the bottom of this thread.
 * [LEADS-DBS](https://www.lead-dbs.org/helpsupport/knowledge-base/atlasesresources/cortical-atlas-parcellations-mni-space/) - A page covering a wide-range of cortical parcellations.
+* [maTT](https://github.com/faskowit/multiAtlasTT) - A Github repo with code to use FreeSurfer tools to fit various parcellations in the subject's T1w space.  
 * [MIST](https://mniopenresearch.org/articles/1-3) - Multi-resolution parcellation of functional brain networks.
 * [Schaefer2018](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation/Schaefer2018_LocalGlobal) - Local global parcellations from paper [Schaefer (2018)](http://people.csail.mit.edu/ythomas/publications/2018LocalGlobal-CerebCor.pdf)
+* [Shen atlas](https://www.nitrc.org/projects/bioimagesuite) - Resting state parcellation from paper [Shen (2013)](https://www.sciencedirect.com/science/article/pii/S1053811913005818).
 
 ## Other (fun stuff)
 
