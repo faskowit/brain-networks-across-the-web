@@ -11,6 +11,7 @@ Because networks can be confusing, and learning is fun.
 * [A Scholarpedia](http://www.scholarpedia.org/article/Brain_connectivity) entry on brain connectivity.
 * [Building connectomes using diffusion MRI: why, how and but](https://ora.ox.ac.uk/objects/uuid:81f726ca-d1f1-48f3-b686-82f3d6a198ba)
 * [The first chapter](http://scitechconnect.elsevier.com/wp-content/uploads/2017/02/An-Introduction-to-Brain-Network-Analysis.pdf) to the wonderful book: [Fundementals of Brain Network Analysis](https://www.amazon.com/Fundamentals-Brain-Network-Analysis-Fornito-ebook/dp/B01CRIU886).
+* [Connected Brains: introduction to graph theory](https://home.kpn.nl/stam7883/graph_introduction.html)
 
 ## Downloads
 ### Non-human Animals
