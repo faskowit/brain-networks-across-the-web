@@ -10,12 +10,12 @@ Because networks can be confusing, and learning is fun.
 * [An	introduction](https://www.humanbrainmapping.org/files/2017/ED%20Courses/Course%20Materials/BrainGraphs_Fornito_Alex.pdf)	to	brain	networks
 * [A Scholarpedia](http://www.scholarpedia.org/article/Brain_connectivity) entry on brain connectivity.
 * [Building connectomes using diffusion MRI: why, how and but](https://ora.ox.ac.uk/objects/uuid:81f726ca-d1f1-48f3-b686-82f3d6a198ba)
-* [The first chapter](http://scitechconnect.elsevier.com/wp-content/uploads/2017/02/An-Introduction-to-Brain-Network-Analysis.pdf) to the wonderful book: [Fundementals of Brain Network Analysis](https://www.amazon.com/Fundamentals-Brain-Network-Analysis-Fornito-ebook/dp/B01CRIU886).
+* [The first chapter](http://scitechconnect.elsevier.com/wp-content/uploads/2017/02/An-Introduction-to-Brain-Network-Analysis.pdf) to the *wonderful* book: [Fundementals of Brain Network Analysis](https://www.amazon.com/Fundamentals-Brain-Network-Analysis-Fornito-ebook/dp/B01CRIU886).
 * [Connected Brains: introduction to graph theory](https://home.kpn.nl/stam7883/graph_introduction.html)
 
 ## Downloads
 ### Non-human Animals
-Typically micro-scale infomation, gene expression, informatically collated connectivity & other stuff
+Typically micro-scale infomation, gene expression, informatically collated connectivity, & other stuff
 
 * [BCT](https://sites.google.com/site/bctnet/datasets/) - Brain connectivity toolbox: a personal favorite, with a selection of:
   * [Felleman (1991)](https://www.ncbi.nlm.nih.gov/pubmed/1822724) macaque visual cortex
@@ -23,7 +23,8 @@ Typically micro-scale infomation, gene expression, informatically collated conne
   * [Scannell (1999)](https://academic.oup.com/cercor/article/9/3/277/428916) cat cortex
 * [C. elegans](http://wormwiring.org/) - A classic connectome. 
   * Also check out [Open Worm](http://openworm.org/downloads.html) for more worm connectome work.
-  * [Arnatkevic̆iūtė (2018)](https://figshare.com/s/797199619fbabdab8c86) - Worm data in a nicely organized figshare repo, from paper [Arnatkevic̆iūtė (2018)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005989)
+  * [Arnatkevic̆iūtė (2018)](https://figshare.com/s/797199619fbabdab8c86) - Worm data in a nicely organized figshare repo, from paper [Arnatkevic̆iūtė (2018)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005989).
+* [Ciona intestinalis](https://elifesciences.org/articles/16962#fig16) - A tadpole larva connectome, from paper [Ryan (2016)](https://elifesciences.org/articles/16962). 
 * [Calabrese (2015)](http://www.civm.duhs.duke.edu/mouseconnectome/#download) - Mouse tractography data from the paper [Calabrese (2015)](https://academic.oup.com/cercor/article/25/11/4628/2367615).
 * [Choi (2019)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006978) - Can download the 244 region Allen Mouse network through the resources in this paper.
 * [Drosophila medulla full connectome](https://figshare.com/articles/Drosophila_medulla_full_connectome/1249735) - Data from [Takemura (2013)](https://www.nature.com/articles/nature12450) extracted and bundled up.
@@ -38,19 +39,21 @@ Typically micro-scale infomation, gene expression, informatically collated conne
   * Rat - from an old USC website
   * Worm - from [Jarrell (2012)](https://science.sciencemag.org/content/337/6093/437.full)
 * [Oh (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102064/) - The Allen Mouse Brain Connectivity Atlas paper has a bunch of supplementary data, including some matrices. 
+* [Platynereis dumerilii](https://elifesciences.org/articles/26000/figures#SD8-data) - The larva of the Platynereis dumerilii, from the paper [Verasztó (2017)](https://elifesciences.org/articles/26000).
 * [Rat connectome](https://www.pnas.org/highwire/filestream/624512/field_highwire_adjunct_files/2/pnas.1712928114.sd03.xlsx) - Informatically collated data from Larry Swanson, used in a series of PNAS papers, like [Swanson 2017](https://www.pnas.org/content/114/45/E9692)
-* [The Virtual Macaque Brain](https://zenodo.org/record/1471588#.XEDwPc9Kj9U) - Macaque data form the paper [Shen (2019)](https://www.sciencedirect.com/science/article/pii/S1053811919301041). 
+* [The Virtual Macaque Brain](https://zenodo.org/record/1471588#.XEDwPc9Kj9U) - Macaque data from the paper [Shen (2019)](https://www.sciencedirect.com/science/article/pii/S1053811919301041). 
 * [Transcriptional map of primate brain development](https://github.com/AllenBrainAtlas/DevRhesusLMD) - Can use this github repo to make some gene expression maps, from [Bakken (2016)](https://www.nature.com/articles/nature18637)
 * [USC Mouse Connectome](http://www.mouseconnectome.org/MCP/page/tables/supplementary?paperId=17) - Cortico-cortical mouse networks from [Fig2](http://www.mouseconnectome.org/MCP/page/documents/figures?paperId=17) of the [Zingg (2014) Cell](https://www.cell.com/abstract/S0092-8674%2814%2900222-0) paper.
 
 ### Human Animals 
 Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage, & other stuff
 
+* [35_methods_MICCAI_2017](https://github.com/lodurality/35_methods_MICCAI_2017) - Test-retest tractography networks, with 5 different methods, from paper [Petrov (2017)](https://link.springer.com/chapter/10.1007/978-3-319-66182-7_59). 
 * [ACPI](http://fcon_1000.projects.nitrc.org/indi/ACPI/html/index.html) - Addiction connectome preprocessed initiative. 
 * [AUDADAPT](https://osf.io/28r57/) - Func networks from people resting and listening, from [Alavash 2019](https://www.pnas.org/content/116/2/660).
 * [BCT](https://sites.google.com/site/bctnet/datasets/) - Brain connectivity toolbox also has some human data:
   * [Crossley (2013)](https://www.pnas.org/content/110/28/11583) coactivation network & group func network
-* [braingraph.org]() - I want to include this from [Kerepesi (2017)](https://link.springer.com/article/10.1007%2Fs11571-017-9445-1), but the side seems to be down right now.
+* [braingraph.org]() - I want to include this from [Kerepesi (2017)](https://link.springer.com/article/10.1007%2Fs11571-017-9445-1), but the site seems to be down right now.
 * [Cheng (2019)](https://datadryad.org/resource/doi:10.5061/dryad.736t01r) - Data of 831 HCP func networks shared from [this paper](https://elifesciences.org/articles/40765).
 * [Cobre Connectomes](https://figshare.com/articles/Cobre_Connectomes_GZ/1328237) - Functional networks of healthy and schizophrenia subjects.
 * [Complex Systems Lab](https://complexsystemsupenn.com/codedata) - Some data shared by Dani Bassett's group.
@@ -62,6 +65,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [Hernan Makse lab](http://www-levich.engr.ccny.cuny.edu/webpage/hmakse/brain/) - Hosting some brain networks used in publications here.
 * [Human Tractography Atlas](http://brain.labsolver.org/tractography/download) - DSI studio-based tractography data, from [Yeh (2018)](https://www.sciencedirect.com/science/article/pii/S1053811918304324).
 * [ICBM_aging_connectome](https://figshare.com/articles/ICBM_aging_connectome/) - Some sort of data here... not much description.
+* [Keerativittayayut (2018)](https://elifesciences.org/articles/32696#fig4) - Two func mats (224 ROIs) across memory encoding tasks, from paper [Keerativittayayut (2018)](https://elifesciences.org/articles/32696).
 * [Mattar (2015)](https://datadryad.org/resource/doi:10.5061/dryad.94t53) - Task and rest func data from paper [Mattar (2015)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004533).
 * [Neuro Beureau](https://www.nitrc.org/frs/?group_id=383) - Many preprocessed connectomes here, related to the [Preprocessed Connectomes Project](http://preprocessed-connectomes-project.org/datasets.html): 
   * Beijing Enhanced dwi networks
@@ -91,4 +95,5 @@ Slicing up the brain into regions of interest
 ## Other (fun stuff)
 
 * [Network Repositroy](http://networkrepository.com/index.php) - Lot's of network downloads (including brain networks), but also more fun stuff too.
+* [o3d](https://brainlife.io/home/o3d) - A place to make brain networks; additionally, a repository with some networks made from a standard set of subjects, from preprint [Avesani (2018)](https://psyarxiv.com/y82n7/).
 * [The Virtual Brain](https://www.thevirtualbrain.org/tvb/zwei/home) - Brain dynamics simulators based on neural mass models and other fun equations.
