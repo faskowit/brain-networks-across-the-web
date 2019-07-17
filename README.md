@@ -21,7 +21,7 @@ Typically micro-scale infomation, gene expression, informatically collated conne
   * [Felleman (1991)](https://www.ncbi.nlm.nih.gov/pubmed/1822724) macaque visual cortex
   * [Young (1992)](https://www.nature.com/articles/358152a0) macaque
   * [Scannell (1999)](https://academic.oup.com/cercor/article/9/3/277/428916) cat cortex
-* [C. elegans](http://wormwiring.org/) - A classic connectome. 
+* [C. elegans](http://wormwiring.org/) - A classic connectome. See [Cook (2019)](https://doi.org/10.1038/s41586-019-1352-7) for a re-analysis/processing of the [White (1986)](https://www.semanticscholar.org/paper/The-structure-of-the-nervous-system-of-the-nematode-White-Southgate/62d36f23580ae0c822ebc7de69ae603d85441bfc) data.
   * Also check out [Open Worm](http://openworm.org/downloads.html) for more worm connectome work.
   * [Arnatkevic̆iūtė (2018)](https://figshare.com/s/797199619fbabdab8c86) - Worm data in a nicely organized figshare repo, from paper [Arnatkevic̆iūtė (2018)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005989).
 * [Ciona intestinalis](https://elifesciences.org/articles/16962#fig16) - A tadpole larva connectome, from paper [Ryan (2016)](https://elifesciences.org/articles/16962). 
@@ -41,9 +41,10 @@ Typically micro-scale infomation, gene expression, informatically collated conne
 * [Oh (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102064/) - The Allen Mouse Brain Connectivity Atlas paper has a bunch of supplementary data, including some matrices. 
 * [Platynereis dumerilii](https://elifesciences.org/articles/26000/figures#SD8-data) - The larva of the Platynereis dumerilii, from the paper [Verasztó (2017)](https://elifesciences.org/articles/26000).
 * [Rat connectome](https://www.pnas.org/highwire/filestream/624512/field_highwire_adjunct_files/2/pnas.1712928114.sd03.xlsx) - Informatically collated data from Larry Swanson, used in a series of PNAS papers, like [Swanson 2017](https://www.pnas.org/content/114/45/E9692)
-* [The Virtual Macaque Brain](https://zenodo.org/record/1471588#.XEDwPc9Kj9U) - Macaque data from the paper [Shen (2019)](https://www.sciencedirect.com/science/article/pii/S1053811919301041). 
+* [The Virtual Macaque Brain](https://zenodo.org/record/1471588#.XEDwPc9Kj9U) - Macaque data from the paper [Shen (2019)](https://www.sciencedirect.com/science/article/pii/S1053811919301041). See also [Shen (2019)](https://doi.org/10.1038/s41597-019-0129-z)
 * [Transcriptional map of primate brain development](https://github.com/AllenBrainAtlas/DevRhesusLMD) - Can use this github repo to make some gene expression maps, from [Bakken (2016)](https://www.nature.com/articles/nature18637)
 * [USC Mouse Connectome](http://www.mouseconnectome.org/MCP/page/tables/supplementary?paperId=17) - Cortico-cortical mouse networks from [Fig2](http://www.mouseconnectome.org/MCP/page/documents/figures?paperId=17) of the [Zingg (2014) Cell](https://www.cell.com/abstract/S0092-8674%2814%2900222-0) paper.
+* [Wang (2019)](https://www.biorxiv.org/content/10.1101/701755v1) - Adjacecny matrices from multiple inbred strains of mice in this paper. 
 
 ### Human Animals 
 Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage, & other stuff
