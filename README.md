@@ -100,6 +100,7 @@ Make your brains look nice
 
 * [Keiriz (2018)](https://www.mitpressjournals.org/doi/10.1162/netn_a_00044) - Paper describing [NeuroCave](https://github.com/CreativeCodingLab/NeuroCave) and related visualization work.
 * [LaPlante (2014)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113838) - The Connectome Visualization Utility, which is implemented in Python; repo [here](https://github.com/aestrivex/cvu).
+* [Margulies (2013)](https://www.sciencedirect.com/science/article/pii/S1053811913004709) - A paper on connectome viz, highlighting more examples and resources. 
 * [NeuroMArVL](https://immersive.erc.monash.edu/neuromarvl/) - Makes network pictures on a brain surface, in a circle diagram, or as a spring-embedding (2D or 3D).
 * [Nilearn](https://nilearn.github.io/auto_examples/index.html#visualization-of-brain-images) - Plenty of brain visualization inspiration to be had here.  
 * [Xia (2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068910) - BrainNet Viewer, which can also be found [on NITRC](https://www.nitrc.org/projects/bnv/).
