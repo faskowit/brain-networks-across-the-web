@@ -17,10 +17,13 @@ Because networks can be confusing, and learning is fun.
 ### Non-human Animals
 Typically micro-scale infomation, gene expression, informatically collated connectivity, & other stuff
 
+* [Allen Mouse Brain Connectivity Atlas](https://connectivity.brain-map.org/static/brainexplorer) - Allen Institute contiunes to comprehensively map the mouse brain 
+  * [Oh (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102064/) - Landmark paper has a bunch of supplementary data, including some matrices. 
+  * [Knox (2019)](https://www.mitpressjournals.org/doi/10.1162/netn_a_00066) - Paper describes models incorporating more voxel information to obtain mouse connectivity; includes [github repo](https://github.com/AllenInstitute/mouse_connectivity_models)
 * [BCT](https://sites.google.com/site/bctnet/datasets/) - Brain connectivity toolbox: a personal favorite, with a selection of:
-  * [Felleman (1991)](https://www.ncbi.nlm.nih.gov/pubmed/1822724) macaque visual cortex
-  * [Young (1992)](https://www.nature.com/articles/358152a0) macaque
-  * [Scannell (1999)](https://academic.oup.com/cercor/article/9/3/277/428916) cat cortex
+  * [Felleman (1991)](https://www.ncbi.nlm.nih.gov/pubmed/1822724) - macaque visual cortex
+  * [Young (1992)](https://www.nature.com/articles/358152a0) - macaque
+  * [Scannell (1999)](https://academic.oup.com/cercor/article/9/3/277/428916) - cat cortex
 * [C. elegans](http://wormwiring.org/) - A classic connectome. See [Cook (2019)](https://doi.org/10.1038/s41586-019-1352-7) for a re-analysis/processing of the [White (1986)](https://www.semanticscholar.org/paper/The-structure-of-the-nervous-system-of-the-nematode-White-Southgate/62d36f23580ae0c822ebc7de69ae603d85441bfc) data.
   * Also check out [Open Worm](http://openworm.org/downloads.html) for more worm connectome work.
   * [Arnatkevic̆iūtė (2018)](https://figshare.com/s/797199619fbabdab8c86) - Worm data in a nicely organized figshare repo, from paper [Arnatkevic̆iūtė (2018)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005989).
@@ -38,7 +41,6 @@ Typically micro-scale infomation, gene expression, informatically collated conne
   * Mouse - from [Helmstaedter (2013)](https://www.nature.com/articles/nature12346)
   * Rat - from an old USC website
   * Worm - from [Jarrell (2012)](https://science.sciencemag.org/content/337/6093/437.full)
-* [Oh (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102064/) - The Allen Mouse Brain Connectivity Atlas paper has a bunch of supplementary data, including some matrices. 
 * [Platynereis dumerilii](https://elifesciences.org/articles/26000/figures#SD8-data) - The larva of the Platynereis dumerilii, from the paper [Verasztó (2017)](https://elifesciences.org/articles/26000).
 * [Rat connectome](https://www.pnas.org/highwire/filestream/624512/field_highwire_adjunct_files/2/pnas.1712928114.sd03.xlsx) - Informatically collated data from Larry Swanson, used in a series of PNAS papers, like [Swanson 2017](https://www.pnas.org/content/114/45/E9692)
 * [The Virtual Macaque Brain](https://zenodo.org/record/1471588#.XEDwPc9Kj9U) - Macaque data from the paper [Shen (2019)](https://www.sciencedirect.com/science/article/pii/S1053811919301041). See also [Shen (2019)](https://doi.org/10.1038/s41597-019-0129-z)
@@ -54,7 +56,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [AUDADAPT](https://osf.io/28r57/) - Func networks from people resting and listening, from [Alavash 2019](https://www.pnas.org/content/116/2/660).
 * [BCT](https://sites.google.com/site/bctnet/datasets/) - Brain connectivity toolbox also has some human data:
   * [Crossley (2013)](https://www.pnas.org/content/110/28/11583) coactivation network & group func network
-* [braingraph.org]() - I want to include this from [Kerepesi (2017)](https://link.springer.com/article/10.1007%2Fs11571-017-9445-1), but the site seems to be down right now.
+* [braingraph.org](http://braingraph.org/cms/download-pit-group-connectomes/) - Structural networks made from HCP images, described in [Kerepesi (2017)](https://link.springer.com/article/10.1007%2Fs11571-017-9445-1)
 * [Cheng (2019)](https://datadryad.org/resource/doi:10.5061/dryad.736t01r) - Data of 831 HCP func networks shared from [this paper](https://elifesciences.org/articles/40765).
 * [Cobre Connectomes](https://figshare.com/articles/Cobre_Connectomes_GZ/1328237) - Functional networks of healthy and schizophrenia subjects.
 * [Complex Systems Lab](https://complexsystemsupenn.com/codedata) - Some data shared by Dani Bassett's group.
