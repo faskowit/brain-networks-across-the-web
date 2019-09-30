@@ -65,6 +65,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [Dutch Connectome Lab](http://www.dutchconnectomelab.nl/) - Some downloads here from Martijn van den Heuvel's group.
 * [Faskowitz (2019)](https://figshare.com/articles/Faskowitz2018wsbmLifeSpan_data/6983018) - NKI structural connectivity data from paper [Faskowitz (2019)](https://www.nature.com/articles/s41598-018-31202-1). 
 * [Gibbsconnectome](https://www.nitrc.org/projects/gibbsconnectome/) - Really dense voxelwise func and sturct data.
+* [Hagmann Connectomes](https://zenodo.org/record/2872624#.XYEcfdVKiUl) - Structure+function matrices used in many papers including [Vázquez-Rodríguez (2019)](https://www.pnas.org/content/early/2019/09/27/1903403116). 
 * [Hernan Makse lab](http://www-levich.engr.ccny.cuny.edu/webpage/hmakse/brain/) - Hosting some brain networks used in publications here.
 * [Human Tractography Atlas](http://brain.labsolver.org/tractography/download) - DSI studio-based tractography data, from [Yeh (2018)](https://www.sciencedirect.com/science/article/pii/S1053811918304324).
 * [ICBM_aging_connectome](https://figshare.com/articles/ICBM_aging_connectome/) - Some sort of data here... not much description.
@@ -81,6 +82,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [UMCD](http://umcd.humanconnectomeproject.org/) - USC Multimodal Connectivity Database, with brain networks constructed from a wide range of datasets
   * A list of the available datasets in the UMCD can be found [here](http://umcd.humanconnectomeproject.org/umcd/default/browse_studies). 
 * [Vertes2016_PhilTransB_data.mat](https://figshare.com/articles/Vertes2016_PhilTransB_data_mat/3363433) - 38 brain networks in this big mat file, from [Vertes (2016)](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0362).
+* [Yaesoubi (2017)](https://figshare.com/articles/Network_time-courses_for_multiple_subjects/4595308) - Timecourses from 405 subjects, 50 ica-derived nodes, from paper [Yaesoubi (2017)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171647).
 
 ### Parcellations
 Slicing up the brain into regions of interest
