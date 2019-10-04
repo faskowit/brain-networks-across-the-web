@@ -58,6 +58,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
   * [Crossley (2013)](https://www.pnas.org/content/110/28/11583) coactivation network & group func network
 * [braingraph.org](http://braingraph.org/cms/download-pit-group-connectomes/) - Structural networks made from HCP images, described in [Kerepesi (2017)](https://link.springer.com/article/10.1007%2Fs11571-017-9445-1)
 * [Cheng (2019)](https://datadryad.org/resource/doi:10.5061/dryad.736t01r) - Data of 831 HCP func networks shared from [this paper](https://elifesciences.org/articles/40765).
+* [CNI Challenge 2019](http://www.brainconnectivity.net/challenge.html) - Miccai workshop challenge with [train](https://github.com/mdschirmer/2019_CNI_TrainingRelease) and [test](https://github.com/mdschirmer/2019_CNI_ValidationRelease) data (incl. timeseries) for predicting ADHD dx.
 * [Cobre Connectomes](https://figshare.com/articles/Cobre_Connectomes_GZ/1328237) - Functional networks of healthy and schizophrenia subjects.
 * [Complex Systems Lab](https://complexsystemsupenn.com/codedata) - Some data shared by Dani Bassett's group.
 * [Dynamic Connectome Lab](https://www.dynamic-connectome.org/?page_id=25) - Some brain networks from Marcus Kaiser.
