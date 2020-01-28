@@ -82,6 +82,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [The R-fMRI Network](http://rfmri.org/DownloadRfMRIMaps) - Lots of func networks from Chinese mega-consortium.
 * [UMCD](http://umcd.humanconnectomeproject.org/) - USC Multimodal Connectivity Database, with brain networks constructed from a wide range of datasets
   * A list of the available datasets in the UMCD can be found [here](http://umcd.humanconnectomeproject.org/umcd/default/browse_studies). 
+* [Váša (2020)](https://figshare.com/articles/Data_for_Conservative_and_disruptive_modes_of_adolescent_change_in_human_brain_functional_connectivity_/11551602) - Func developmental data from paper investigating modes of adolescent change, [Váša (2020)](https://www.pnas.org/content/early/2020/01/27/1906144117)
 * [Vertes2016_PhilTransB_data.mat](https://figshare.com/articles/Vertes2016_PhilTransB_data_mat/3363433) - 38 brain networks in this big mat file, from [Vertes (2016)](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0362).
 * [Yaesoubi (2017)](https://figshare.com/articles/Network_time-courses_for_multiple_subjects/4595308) - Timecourses from 405 subjects, 50 ica-derived nodes, from paper [Yaesoubi (2017)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171647).
 
