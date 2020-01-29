@@ -67,6 +67,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [Faskowitz (2019)](https://figshare.com/articles/Faskowitz2018wsbmLifeSpan_data/6983018) - NKI structural connectivity data from paper [Faskowitz (2019)](https://www.nature.com/articles/s41598-018-31202-1). 
 * [Gibbsconnectome](https://www.nitrc.org/projects/gibbsconnectome/) - Really dense voxelwise func and sturct data.
 * [Hagmann Connectomes](https://zenodo.org/record/2872624#.XYEcfdVKiUl) - Structure+function matrices used in many papers including [Vázquez-Rodríguez (2019)](https://www.pnas.org/content/early/2019/09/27/1903403116). 
+* [Harmonization mats](https://bicr.atr.jp/dcn/en/download/harmonization/) - Func mats from multiple studies available after emailing for access, see [Yamashita (2019)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000042).
 * [Hernan Makse lab](http://www-levich.engr.ccny.cuny.edu/webpage/hmakse/brain/) - Hosting some brain networks used in publications here.
 * [Human Tractography Atlas](http://brain.labsolver.org/tractography/download) - DSI studio-based tractography data, from [Yeh (2018)](https://www.sciencedirect.com/science/article/pii/S1053811918304324).
 * [ICBM_aging_connectome](https://figshare.com/articles/ICBM_aging_connectome/) - Some sort of data here... not much description.
