@@ -34,6 +34,7 @@ Typically micro-scale infomation, gene expression, informatically collated conne
 * [Grandjean (2017)](http://www.jneurosci.org/content/37/34/8092) - Paper contains some mouse func connectivity data. 
 * [Mouse synaptome atlas](https://www.cell.com/neuron/fulltext/S0896-6273(18)30581-6) - Synaptome, a similarity matrix of the synaptome maps for each of >700 regions, more info [here](http://synaptome.genes2cognition.org/). 
 * [Marmoset brain](http://analytics.marmosetbrain.org/) - weighted and directed, based on monosynaptic retrograde fluorescent tracers.
+* [Navigable maps](https://github.com/networkgeometry/navigable_brain_maps_data) - Edge lists and hyperbolic embedding coordinates of connectomes, from [Allard & Serrano (2020)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007584). 
 * [Neurodata.io](https://neurodata.io/project/connectomes/) - A bunch of goodies here, in graphml format:
   * Cat - from [de Reus (2013)](http://www.jneurosci.org/content/33/32/12929.full)
   * Fly - from [Takemura (2013)](https://www.nature.com/articles/nature12450)
