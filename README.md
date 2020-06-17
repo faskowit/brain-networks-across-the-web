@@ -61,6 +61,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [Cheng (2019)](https://datadryad.org/resource/doi:10.5061/dryad.736t01r) - Data of 831 HCP func networks shared from [this paper](https://elifesciences.org/articles/40765).
 * [CNI Challenge 2019](http://www.brainconnectivity.net/challenge.html) - Miccai workshop challenge with [train](https://github.com/mdschirmer/2019_CNI_TrainingRelease) and [test](https://github.com/mdschirmer/2019_CNI_ValidationRelease) data (incl. timeseries) for predicting ADHD dx.
 * [Cobre Connectomes](https://figshare.com/articles/Cobre_Connectomes_GZ/1328237) - Functional networks of healthy and schizophrenia subjects.
+* [CombinedFC Toolbox](https://github.com/ColeLab/CombinedFC) - Time series from 100 HCP subjects shared to demonstrate method in [Sanchez-Romero (2020)](https://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_01580) 
 * [Complex Systems Lab](https://complexsystemsupenn.com/codedata) - Some data shared by Dani Bassett's group.
 * [Dynamic Connectome Lab](https://www.dynamic-connectome.org/?page_id=25) - Some brain networks from Marcus Kaiser.
 * [DSI Studio Downloads](http://dsi-studio.labsolver.org/download-images) - DSI studio team has an assortment of fun data.
