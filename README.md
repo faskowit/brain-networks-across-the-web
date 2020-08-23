@@ -76,6 +76,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [ICBM_aging_connectome](https://figshare.com/articles/ICBM_aging_connectome/) - Some sort of data here... not much description.
 * [Keerativittayayut (2018)](https://elifesciences.org/articles/32696#fig4) - Two func mats (224 ROIs) across memory encoding tasks, from paper [Keerativittayayut (2018)](https://elifesciences.org/articles/32696).
 * [Mattar (2015)](https://datadryad.org/resource/doi:10.5061/dryad.94t53) - Task and rest func data from paper [Mattar (2015)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004533).
+* [Morgan (2020)](https://doi.org/10.1016/j.bpsc.2020.05.013) - Case-control [schizophrenia func mats](https://github.com/jmyoung36/fMRI_connectivity_accurately_distinguishes_cases) used for prediciton w/ additional DTI and thickness at [figshare](https://figshare.com/articles/dataset/Data_for_Functional_MRI_connectivity_accurately_distinguishes_cases_with_psychotic_disorders_from_healthy_controls_based_on_cortical_features_associated_with_brain_network_development_/12361550)
 * [Neuro Beureau](https://www.nitrc.org/frs/?group_id=383) - Many preprocessed connectomes here, related to the [Preprocessed Connectomes Project](http://preprocessed-connectomes-project.org/datasets.html): 
   * Beijing Enhanced dwi networks
   * ADHD200 func networks with different preprocessing strategies
