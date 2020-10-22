@@ -66,6 +66,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [Dynamic Connectome Lab](https://www.dynamic-connectome.org/?page_id=25) - Some brain networks from Marcus Kaiser.
 * [DSI Studio Downloads](http://dsi-studio.labsolver.org/download-images) - DSI studio team has an assortment of fun data.
 * [Dutch Connectome Lab](http://www.dutchconnectomelab.nl/) - Some downloads here from Martijn van den Heuvel's group.
+* [Esfahlani (2020)](https://figshare.com/articles/dataset/Resting-state_and_movie-watching_data/12971162) - Resting state and movie time series from [paper](https://www.pnas.org/content/early/2020/10/21/2005531117) demonstrating that high-amplitude events drive FC.  
 * [Faskowitz (2019)](https://figshare.com/articles/Faskowitz2018wsbmLifeSpan_data/6983018) - NKI structural connectivity data from paper [Faskowitz (2019)](https://www.nature.com/articles/s41598-018-31202-1). 
 * [Gibbsconnectome](https://www.nitrc.org/projects/gibbsconnectome/) - Really dense voxelwise func and sturct data.
 * [Hagmann Connectomes](https://zenodo.org/record/2872624#.XYEcfdVKiUl) - Structure+function matrices used in many papers including [Vázquez-Rodríguez (2019)](https://www.pnas.org/content/early/2019/09/27/1903403116). 
