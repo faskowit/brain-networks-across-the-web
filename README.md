@@ -1,5 +1,5 @@
 # brain-networks-across-the-web
-Data across the world wide web ready to be downloaded for your brainhacking pleasure; an aggregation of brain networks, brain data that can be easily massaged into an NxN matrix, and other data helpful for brain network stuff.
+Data across the world wide web ready to be downloaded for your brainhacking pleasure. An aggregation of brain networks, regional (node) time series, and various other brain data that can be massaged (processed) into an NxN matrix. And other data helpful for brain network stuff too.
 
 Feel free to add to this (incomplete) list via a pull request! 
 
@@ -85,6 +85,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [Patania (2019)](https://github.com/alpatania/AHBA_microarray_Mapper) - Github repo to make microarray data from paper [Patania (2019)](https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00094).
 * [PsychEncode](http://resource.psychencode.org/#Pipeline) - Download some gene expression matricies for the PFC here.
 * [SLIM](http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html) - Func networks from a test-retest sample from China.
+* [StudyForrest](https://github.com/psychoinformatics-de/studyforrest-data-aggregate) - Time series of people watching Forrest Gump in the scanner, part of the wider [StudyForrest project](http://studyforrest.org/).
 * [The R-fMRI Network](http://rfmri.org/DownloadRfMRIMaps) - Lots of func networks from Chinese mega-consortium.
 * [UMCD](http://umcd.humanconnectomeproject.org/) - USC Multimodal Connectivity Database, with brain networks constructed from a wide range of datasets
   * A list of the available datasets in the UMCD can be found [here](http://umcd.humanconnectomeproject.org/umcd/default/browse_studies). 
