@@ -75,6 +75,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [HCP Prob Atlas](https://www.biorxiv.org/content/10.1101/2020.06.22.166041v1.supplementary-material) - Group average probabilistic matrix, fulfilling HCP quest for structural connectome, from [Rosen (2020)](https://doi.org/10.1101/2020.06.22.166041).
 * [Human Tractography Atlas](http://brain.labsolver.org/tractography/download) - DSI studio-based tractography data, from [Yeh (2018)](https://www.sciencedirect.com/science/article/pii/S1053811918304324).
 * [ICBM_aging_connectome](https://figshare.com/articles/ICBM_aging_connectome/) - Some sort of data here... not much description.
+* [IIT Human Brain Atlas](https://www.nitrc.org/projects/iit) - Standardized template space structural data from [Zhang (2018)](https://pubmed.ncbi.nlm.nih.gov/29414497/).
 * [Keerativittayayut (2018)](https://elifesciences.org/articles/32696#fig4) - Two func mats (224 ROIs) across memory encoding tasks, from paper [Keerativittayayut (2018)](https://elifesciences.org/articles/32696).
 * [Korean Social Life, Health, and Aging Project](https://github.com/rhhyon/KSHAP-PNAS-2020) - Functional nets and social nets from paper [Hyon (2020)](https://www.pnas.org/content/early/2020/12/11/2013606117)
 * [Mattar (2015)](https://datadryad.org/resource/doi:10.5061/dryad.94t53) - Task and rest func data from paper [Mattar (2015)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004533).
