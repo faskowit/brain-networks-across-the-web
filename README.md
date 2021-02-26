@@ -24,6 +24,7 @@ Typically micro-scale infomation, gene expression, informatically collated conne
   * [Felleman (1991)](https://www.ncbi.nlm.nih.gov/pubmed/1822724) - macaque visual cortex
   * [Young (1992)](https://www.nature.com/articles/358152a0) - macaque
   * [Scannell (1999)](https://academic.oup.com/cercor/article/9/3/277/428916) - cat cortex
+* [bio2art](https://github.com/AlGoulas/bio2art/tree/master/connectomes) - Connectomes collected here, which can be used to make [bio-instantiated recurrent neural nets](https://www.biorxiv.org/content/10.1101/2021.01.22.427744v1.full).
 * [C. elegans](http://wormwiring.org/) - A classic connectome. See [Cook (2019)](https://doi.org/10.1038/s41586-019-1352-7) for a re-analysis/processing of the [White (1986)](https://www.semanticscholar.org/paper/The-structure-of-the-nervous-system-of-the-nematode-White-Southgate/62d36f23580ae0c822ebc7de69ae603d85441bfc) data.
   * Also check out [Open Worm](http://openworm.org/downloads.html) for more worm connectome work.
   * [Arnatkevic̆iūtė (2018)](https://figshare.com/s/797199619fbabdab8c86) - Worm data in a nicely organized figshare repo, from paper [Arnatkevic̆iūtė (2018)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005989).
