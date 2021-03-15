@@ -31,6 +31,7 @@ Typically micro-scale infomation, gene expression, informatically collated conne
 * [Ciona intestinalis](https://elifesciences.org/articles/16962#fig16) - A tadpole larva connectome, from paper [Ryan (2016)](https://elifesciences.org/articles/16962). 
 * [Calabrese (2015)](http://www.civm.duhs.duke.edu/mouseconnectome/#download) - Mouse tractography data from the paper [Calabrese (2015)](https://academic.oup.com/cercor/article/25/11/4628/2367615).
 * [Choi (2019)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006978) - Can download the 244 region Allen Mouse network through the resources in this paper.
+* [Coletta (2020)](https://data.mendeley.com/datasets/dxtzpvv83k/2) - Voxel resolution mouse brain data from [Coletta (2020)](https://advances.sciencemag.org/content/6/51/eabb7187.full).
 * [Drosophila medulla full connectome](https://figshare.com/articles/Drosophila_medulla_full_connectome/1249735) - Data from [Takemura (2013)](https://www.nature.com/articles/nature12450) extracted and bundled up.
 * [Grandjean (2017)](http://www.jneurosci.org/content/37/34/8092) - Paper contains some mouse func connectivity data. 
 * [Mouse synaptome atlas](https://www.cell.com/neuron/fulltext/S0896-6273(18)30581-6) - Synaptome, a similarity matrix of the synaptome maps for each of >700 regions, more info [here](http://synaptome.genes2cognition.org/). 
