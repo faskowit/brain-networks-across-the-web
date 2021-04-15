@@ -20,6 +20,7 @@ Typically micro-scale infomation, gene expression, informatically collated conne
 * [Allen Mouse Brain Connectivity Atlas](https://connectivity.brain-map.org/static/brainexplorer) - Allen Institute contiunes to comprehensively map the mouse brain 
   * [Oh (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102064/) - Landmark paper has a bunch of supplementary data, including some matrices. 
   * [Knox (2019)](https://www.mitpressjournals.org/doi/10.1162/netn_a_00066) - Paper describes models incorporating more voxel information to obtain mouse connectivity; includes [github repo](https://github.com/AllenInstitute/mouse_connectivity_models)
+  * [Rubinov (2015)](https://www.pnas.org/content/112/32/10032/tab-figures-data) - Paper provides 112-node mouse brain network in supplementary materials.
 * [BCT](https://sites.google.com/site/bctnet/datasets/) - Brain connectivity toolbox: a personal favorite, with a selection of:
   * [Felleman (1991)](https://www.ncbi.nlm.nih.gov/pubmed/1822724) - macaque visual cortex
   * [Young (1992)](https://www.nature.com/articles/358152a0) - macaque
