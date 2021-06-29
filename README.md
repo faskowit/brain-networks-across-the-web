@@ -6,6 +6,7 @@ Feel free to add to this (incomplete) list via a pull request!
 ## Learn
 Because networks can be confusing, and learning is fun. 
 
+* [How-To: Network Neuroscience](https://www.ohbmbrainmappingblog.com/blog/ohbm-on-demand-how-to-network-neuroscience) - A summary of the OHBM network neuroscience educational course, with links to the videos from the course; good starting point for learning about net neuro! 
 * [A tutorial](https://www.dynamic-connectome.org/t/tutorial/) in connectome analysis: topological and spatial features of brain networks
 * [An	introduction](https://www.humanbrainmapping.org/files/2017/ED%20Courses/Course%20Materials/BrainGraphs_Fornito_Alex.pdf)	to	brain	networks
 * [A Scholarpedia](http://www.scholarpedia.org/article/Brain_connectivity) entry on brain connectivity.
