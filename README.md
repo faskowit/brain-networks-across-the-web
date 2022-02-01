@@ -80,6 +80,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [Hernan Makse lab](http://www-levich.engr.ccny.cuny.edu/webpage/hmakse/brain/) - Hosting some brain networks used in publications here.
 * [HCP Prob Atlas](https://www.biorxiv.org/content/10.1101/2020.06.22.166041v1.supplementary-material) - Group average probabilistic matrix, fulfilling HCP quest for structural connectome, from [Rosen (2020)](https://doi.org/10.1101/2020.06.22.166041).
 * [HCP struct & func](https://zenodo.org/record/4643074) - Mats and timeseries use to support findings in [Fallon (2020)](https://direct.mit.edu/netn/article/4/3/788/95846/Timescales-of-spontaneous-fMRI-fluctuations-relate) about timescales of BOLD fluctuations.
+* [HCP rest + task](https://github.com/ChrisWLynn/Broken_detailed_balance) - Rest and task preproc time series used to study brain entropy production in [Lynn (2021)](https://www.pnas.org/content/118/47/e2109889118).
 * [Human Tractography Atlas](http://brain.labsolver.org/tractography/download) - DSI studio-based tractography data, from [Yeh (2018)](https://www.sciencedirect.com/science/article/pii/S1053811918304324).
 * [ICBM_aging_connectome](https://figshare.com/articles/ICBM_aging_connectome/) - Some sort of data here... not much description.
 * [IIT Human Brain Atlas](https://www.nitrc.org/projects/iit) - Standardized template space structural data from [Zhang (2018)](https://pubmed.ncbi.nlm.nih.gov/29414497/).
