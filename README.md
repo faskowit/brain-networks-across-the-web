@@ -18,6 +18,7 @@ Because networks can be confusing, and learning is fun.
 ### Non-human Animals
 Typically micro-scale infomation, gene expression, informatically collated connectivity, & other stuff
 
+* [Drosophila Hemibrain Connectome](https://neuprint.janelia.org/?dataset=hemibrain:v1.2.1&qt=findneurons) Neuprint Online Tool. EM connectome mapping ~ 22.5K neurons in the central brain of the fruit fly [Scheffer (2020)](https://elifesciences.org/articles/57443) (HHMI Janelia Research Campus)
 * [Allen Mouse Brain Connectivity Atlas](https://connectivity.brain-map.org/static/brainexplorer) - Allen Institute contiunes to comprehensively map the mouse brain 
   * [Oh (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5102064/) - Landmark paper has a bunch of supplementary data, including some matrices. 
   * [Knox (2019)](https://www.mitpressjournals.org/doi/10.1162/netn_a_00066) - Paper describes models incorporating more voxel information to obtain mouse connectivity; includes [github repo](https://github.com/AllenInstitute/mouse_connectivity_models)
