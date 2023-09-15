@@ -13,6 +13,8 @@ Because networks can be confusing, and learning is fun.
 * [Building connectomes using diffusion MRI: why, how and but](https://ora.ox.ac.uk/objects/uuid:81f726ca-d1f1-48f3-b686-82f3d6a198ba)
 * [The first chapter](http://scitechconnect.elsevier.com/wp-content/uploads/2017/02/An-Introduction-to-Brain-Network-Analysis.pdf) to the *wonderful* book: [Fundementals of Brain Network Analysis](https://www.amazon.com/Fundamentals-Brain-Network-Analysis-Fornito-ebook/dp/B01CRIU886).
 * [Connected Brains: introduction to graph theory](https://home.kpn.nl/stam7883/graph_introduction.html)
+* This paper is a [tutorial on network and topological neuroscience](https://link.springer.com/article/10.1007/s00429-021-02435-0), with example code inline!
+* A paper of advice for working with open MRI data: [Horien (2022)](https://www.sciencedirect.com/science/article/pii/S2666166721007838)
 
 ## Downloads
 ### Non-human Animals
