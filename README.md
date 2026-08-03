@@ -72,6 +72,7 @@ Typically macro-scale information, neuroimages (MRI, EEG), whole brain coverage,
 * [CombinedFC Toolbox](https://github.com/ColeLab/CombinedFC) - Time series from 100 HCP subjects shared to demonstrate method in [Sanchez-Romero (2020)](https://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_01580)
 * [Complex Systems Lab](https://complexsystemsupenn.com/codedata) - Some data shared by Dani Bassett's group.
 * [Cost-efficiency trade-offs](https://osf.io/45cjy/?view_only=4f1a88db7a16471db5248806b819b466) - About a hundred structural matrices from [Ma (2021)](https://www.sciencedirect.com/science/article/pii/S1053811921003177).
+* [Data-driven network neuroscience](https://auckland.figshare.com/articles/dataset/NeurIPS_2022_Datasets/21397377) - Thousands of brain networks across diseases too, with [code](https://github.com/brainnetuoa/data_driven_network_neuroscience) on how it's all generated; paper [here](https://arxiv.org/abs/2211.12421)
 * [Dynamic Connectome Lab](https://www.dynamic-connectome.org/?page_id=25) - Some brain networks from Marcus Kaiser.
 * [DSI Studio Downloads](http://dsi-studio.labsolver.org/download-images) - DSI studio team has an assortment of fun data.
 * [Dutch Connectome Lab](http://www.dutchconnectomelab.nl/) - Some downloads here from Martijn van den Heuvel's group.
